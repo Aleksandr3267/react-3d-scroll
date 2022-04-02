@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-3d-scroll/static/css/main.0c02754c.css",
+    "main.js": "/react-3d-scroll/static/js/main.5b4823f4.js",
+    "static/js/787.1c3d229b.chunk.js": "/react-3d-scroll/static/js/787.1c3d229b.chunk.js",
+    "static/media/video_optimized.mp4": "/react-3d-scroll/static/media/video_optimized.b410a74d84546d36a6ba.mp4",
+    "static/media/ambient.mp3": "/react-3d-scroll/static/media/ambient.607aad56f2cebb2ac2ad.mp3",
+    "static/media/4.jpg": "/react-3d-scroll/static/media/4.d43038e530bc3d5394bf.jpg",
+    "static/media/1.jpg": "/react-3d-scroll/static/media/1.738c35cd3ed362dc8a53.jpg",
+    "static/media/2.jpg": "/react-3d-scroll/static/media/2.9c2ccff093d817b75f1d.jpg",
+    "static/media/3.jpg": "/react-3d-scroll/static/media/3.f9d5d2c9b07813851c79.jpg",
+    "static/media/5.jpg": "/react-3d-scroll/static/media/5.965223da4f54c725a9af.jpg",
+    "static/media/sound.gif": "/react-3d-scroll/static/media/sound.0f0324a0a8d6724502d9.gif",
+    "static/media/raleway-v22-cyrillic-100.woff2": "/react-3d-scroll/static/media/raleway-v22-cyrillic-100.4368ea94ca036735c2b7.woff2",
+    "static/media/raleway-v22-cyrillic-300.woff2": "/react-3d-scroll/static/media/raleway-v22-cyrillic-300.6a0528b403942983a68b.woff2",
+    "index.html": "/react-3d-scroll/index.html",
+    "main.0c02754c.css.map": "/react-3d-scroll/static/css/main.0c02754c.css.map",
+    "main.5b4823f4.js.map": "/react-3d-scroll/static/js/main.5b4823f4.js.map",
+    "787.1c3d229b.chunk.js.map": "/react-3d-scroll/static/js/787.1c3d229b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0c02754c.css",
+    "static/js/main.5b4823f4.js"
+  ]
+}
