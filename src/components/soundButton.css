@@ -1,0 +1,13 @@
+
+.sound-button{
+    position: fixed;
+    bottom: 5vh;
+    right: 5vw;
+    cursor: pointer;
+    width: 34px;
+    transition: .25s ease;
+}
+.sound-button.paused{
+    opacity: .25;
+}
+
